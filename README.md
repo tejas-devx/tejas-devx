@@ -68,30 +68,7 @@
 
 ---
 
-# 🏆 GitHub Badges
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open-Source-❤-ff69b4?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=tejas-devx&label=Profile+Views&color=blue&style=for-the-badge" />
-</p>
-
----
-
 # 🚀 Featured Projects
-
-### 🍔 **Food Hub**
-- **Tech:** HTML, CSS  
-- Modern restaurant website with responsive design.
-
----
-
-### ✈️ **Globetix**
-- **Tech:** HTML, CSS, JavaScript  
-- Travel website with clean UI & interactive sections.
-
----
 
 ### 🩺 **Prescripto**
 - **Tech:** MERN  
