@@ -60,7 +60,7 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-devx&layout=compact&theme=tokyonight" />
 </p>
-
+  
 ## 🌐 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejas-devx&theme=tokyo-night" />
