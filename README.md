@@ -1,78 +1,93 @@
-<!-- Banner -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tejas!;MCA+Student;Frontend+Developer;MERN+Stack+Developer;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00E5FF&center=true&vCenter=true&width=700&lines=Hello+👋+I'm+Tejas;MCA+Student+%7C+Frontend+Developer;MERN+Stack+Engineer;Building+Clean+%26+Scalable+Web+Apps" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MCA-Computer%20Applications-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MERN-Full%20Stack-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Frontend-UI%20Focused-FF6F00?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Currently pursuing **Master of Computer Applications (MCA)**
-- 🎓 Completed **Bachelor of Computer Applications (BCA)**
-- 💻 Proficient in MERN Stack Development
-- 🚀 Passionate about frontend, UI building & clean code
-- 📫 Reach me at **tejastechsource@gmail.com**
+
+🎓 **MCA Student** with a strong foundation in **Computer Applications**  
+🎓 Completed **Bachelor of Computer Applications (BCA)**  
+💻 Focused on **Frontend Development & MERN Stack**  
+🎨 Passionate about **UI/UX, clean architecture & scalable code**  
+🚀 Constantly learning and building real-world projects  
+
+📫 **Email:** `tejastechsource@gmail.com`
 
 ---
 
-# 🛠️ Tech Stack
-<p>
-  <img 
-    src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,mysql,python,java,cpp,git,github,postman,vscode,figma"
-    width="450"
-  />
-</p>
+## 🛠️ Technical Skills
 
----
-
-# 📊 GitHub Analytics
-
-### ⭐ GitHub Stats  
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tejas-devx&show_icons=true&theme=tokyonight" />
-</p>
-
-### 🔥 Streak Stats  
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=tejas-devx&theme=tokyonight&card_width=500" 
-    alt="GitHub Streak Stats"
-  />
-</p>
-
-### 🎯 Most Used Languages  
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-devx&layout=compact&theme=tokyonight" />
-</p>
-
-### 🌐 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejas-devx&theme=tokyo-night" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,mysql,python,java,cpp,git,github,postman,vscode,figma" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 📊 GitHub Analytics
 
-## 🩺 Prescripto (MERN)
-Doctor appointment system with user, admin & doctor panels and real-time doctor availability status.
+### ⭐ GitHub Overview
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tejas-devx&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tejas-devx&theme=tokyonight&hide_border=true&card_width=520" />
+</p>
+
+### 🎯 Language Usage
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-devx&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🌐 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejas-devx&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 💼 Job Hire (Django + MySQL)
-A job hiring platform connecting job seekers and recruiters.
+## 🚀 Featured Projects
+
+### 🩺 Prescripto — *MERN Stack*
+A full-stack doctor appointment management system with:
+- User, Doctor & Admin modules  
+- Real-time doctor availability  
+- Secure booking & management workflow  
 
 ---
 
-# 📬 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/tejastechsource/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+### 💼 Job Hire — *Django + MySQL*
+A job hiring platform that:
+- Connects recruiters and job seekers  
+- Manages applications efficiently  
+- Focuses on usability and performance  
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejastechsource/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:tejastechsource@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+<p align="center">
+  <strong>⭐ Thanks for visiting my GitHub profile!</strong><br/>
+  <em>“Code. Learn. Build. Repeat.”</em>
+</p>
